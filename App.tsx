@@ -394,8 +394,8 @@ export default function NetworkLab() {
               <h1 className="font-bold text-lg tracking-tight uppercase">NetLab Pro</h1>
             </div>
             <div className="pl-7 -mt-0.5">
-              <p className="text-[10px] text-slate-400 font-semibold leading-tight">Thiết kế bởi Nguyễn Thanh Thủy</p>
-              <p className="text-[9px] text-slate-500 font-medium">Trường THPT Bình Phú - Bình Dương</p>
+              <p className="text-[10px] text-slate-400 font-semibold leading-tight">Thiết kế bởi Trần Phương Nam</p>
+              <p className="text-[9px] text-slate-500 font-medium">Trường Sĩ quan Công binh</p>
             </div>
           </div>
           
