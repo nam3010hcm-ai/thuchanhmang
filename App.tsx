@@ -818,7 +818,7 @@ export default function NetworkLab() {
                 {logs.map(log => (
                   <div key={log.id} className={log.type === 'success' ? 'text-emerald-400' : log.type === 'error' ? 'text-red-400' : 'text-slate-300'}>
                     <span className="text-slate-600 mr-2">[{new Date(log.id).toLocaleTimeString()}]</span>
-                    {log.text}
+                    {log.text}  
                   </div>
                 ))}
                 <div className="flex items-center gap-2 mt-4 pt-4 border-t border-slate-800/50">
