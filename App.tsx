@@ -391,7 +391,7 @@ export default function NetworkLab() {
           <div className="mb-4">
             <div className="flex items-center gap-2">
               <Activity className="text-blue-400 w-5 h-5" />
-              <h1 className="font-bold text-lg tracking-tight uppercase">NetLab Pro</h1>
+              <h1 className="font-bold text-lg tracking-tight uppercase">THỰC HÀNH MẠNG ẢO</h1>
             </div>
             <div className="pl-7 -mt-0.5">
               <p className="text-[10px] text-slate-500 font-semibold leading-tight">Thiết kế bởi Trần Phương Nam</p>
