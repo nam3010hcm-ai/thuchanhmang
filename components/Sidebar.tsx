@@ -48,7 +48,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
           </div>
           <div className="pl-7 -mt-0.5">
             <p className="text-[10px] text-slate-500 font-semibold leading-tight">Thiết kế bởi Trần Phương Nam</p>
-            <p className="text-[9px] text-slate-500 font-medium">Trường Sĩ quan Công binh</p>
+            <p className="text-[9px] text-slate-500 font-medium">Bảo lưu mọi quyền</p>
           </div>
         </div>
 
