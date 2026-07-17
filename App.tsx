@@ -95,8 +95,8 @@ export default function NetworkLab() {
     let password = undefined;
 
     switch(type) {
-      case 'pc': name = `PC-${count}`; ports = 1; ip = `192.168.1.${10 + count}`; break;
-      case 'laptop': name = `Laptop-${count}`; ports = 1; ip = `192.168.1.${50 + count}`; break;
+      case 'pc': name = `PC-${count}`; ports = 2; ip = `192.168.1.${10 + count}`; break;
+      case 'laptop': name = `Laptop-${count}`; ports = 2; ip = `192.168.1.${50 + count}`; break;
       case 'mobile': name = `Phone-${count}`; ports = 0; ip = `192.168.1.${100 + count}`; break;
       case 'tablet': name = `iPad-${count}`; ports = 0; ip = `192.168.1.${110 + count}`; break;
       case 'watch': name = `Watch-${count}`; ports = 0; ip = `192.168.1.${120 + count}`; break;
